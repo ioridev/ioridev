@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/ioridev)<a href="https://github.com/anuraghazra/github-readme-stats">
   
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&theme=solarized-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev＆layout=compact&theme=solarized-dark" />
 </a>  
 
 
