@@ -13,8 +13,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&theme=solarized-dark" />
 </a>  
   
-  
-  
 ## 🔧 I'm maintaining ...
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=ioridev&theme=solarized-dark&repo=flutter_applovin_max)](https://github.com/ioridev/flutter_applovin_max)
