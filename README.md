@@ -14,5 +14,5 @@
   
   
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&theme=solarized-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&theme=solarized-dark" />
 </a>  
