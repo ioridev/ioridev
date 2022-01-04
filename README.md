@@ -18,6 +18,7 @@
 [![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)]()
 [![](https://img.shields.io/badge/-Dart-000?style=flat&logo=dart)]()
 [![](https://img.shields.io/badge/-React-000?style=flat&logo=React)]()
+[![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)]()
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)]()
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)]()
 [![](https://img.shields.io/badge/-GCP-000?style=flat&logo=google-cloud)]()
