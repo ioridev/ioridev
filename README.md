@@ -5,9 +5,11 @@
 [![](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium)](https://medium.com/@iori.eth)
 [![](https://img.shields.io/badge/-Note-000?style=flat&logo=note)](https://note.com/ioridev)
   
-  ![iori's GitHub stats](https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&theme=solarized-dark)
-  
-![iori's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&theme=solarized-dark)
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&show_icons=true&theme=solarized-dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&count_private=true&show_icons=true&theme=solarized-dark" />
+</p>
+
  
 I build client applications for desktop, mobile and embedded systems.  
 I am interested in cross-platform Mac/Windows/Linux/Web.  
