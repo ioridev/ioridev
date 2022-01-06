@@ -18,7 +18,7 @@ I also like to use Firebase and GCP.
 ## 🔧 I'm maintaining
 [![](https://github-readme-stats.vercel.app/api/pin?username=ioridev&theme=solarized-dark&repo=flutter_applovin_max)](https://github.com/ioridev/flutter_applovin_max)
   
-## Use
+## 🧰Use
 
 [![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)]()
 [![](https://img.shields.io/badge/-Dart-000?style=flat&logo=dart)]()
