@@ -11,7 +11,7 @@
 </p>
 
  
-I build client applications for desktop, mobile and embedded systems.  
+I develop client applications for desktop, mobile and embedded systems.  
 I am interested in cross-platform Mac/Windows/Linux/Web.  
 I also like to use Firebase and GCP.
   
