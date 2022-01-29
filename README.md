@@ -24,7 +24,10 @@ I also like to use Firebase and GCP.
 
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username= ioridev&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-  
+<!-- </details>
+<details>    
+
+
 ## 🧰Use
 
 [![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)]()
