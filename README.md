@@ -26,10 +26,8 @@ I also like to use Firebase and GCP.
 ## 🧰  Languages and Tools
 [![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)]()
 [![](https://img.shields.io/badge/-Dart-000?style=flat&logo=dart)]()
-[![](https://img.shields.io/badge/-React-000?style=flat&logo=React)]()
 [![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)]()
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)]()
-[![](https://img.shields.io/badge/-Rust-000?style=flat&logo=Rust)]()
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)]()
 [![](https://img.shields.io/badge/-GCP-000?style=flat&logo=google-cloud)]()
 [![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)]()
@@ -40,4 +38,3 @@ I also like to use Firebase and GCP.
 [![](https://img.shields.io/badge/-Android-000?style=flat&logo=Android)]()
 [![](https://img.shields.io/badge/-iPhone-000?style=flat&logo=ios)]()
 [![](https://img.shields.io/badge/-WebAssembly-000?style=flat&logo=WebAssembly)]()
-[![](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)]()
