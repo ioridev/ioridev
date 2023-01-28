@@ -3,7 +3,12 @@
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/iori_eth)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/ioridev)
 [![](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium)](https://medium.com/@iori.eth)
-[![](https://img.shields.io/badge/-Note-000?style=flat&logo=note)](https://note.com/ioridev)
+[![](https://img.shields.io/badge/-Note-000?style=flat&logo=note)](https://note.com/ioridev)  
+
+I am a skilled mobile app developer with experience using Flutter to create high-quality and visually appealing applications.
+Since 2019, I have been using Flutter to develop mobile apps for Android and iOS platforms, as well as for other platforms such as macOS and Linux on single-board computers. 
+I have experience writing test codes to ensure safe and secure development, and I am proficient in using libraries such as Riverpod. 
+I have also developed apps using Flutter Web. Additionally, I have experience creating and publishing Flutter plugins using Swift/Objective-C and Java, and I have also written Flutter plugins using C++ with Dart FFI. I have experience in other programming languages such as Go for Google Cloud Functions and Typescript.
   
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&show_icons=true&theme=solarized-dark" />
