@@ -5,17 +5,14 @@
 [![](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium)](https://medium.com/@iori.eth)
 [![](https://img.shields.io/badge/-Note-000?style=flat&logo=note)](https://note.com/ioridev)  
 
-I am a highly experienced mobile app developer with a strong background in creating visually appealing and high-quality applications using Flutter.
-
-Since 2019, I have been using Flutter to develop mobile apps for both Android and iOS, as well as for other platforms such as macOS and Linux on single-board computers. I am skilled in writing test codes to ensure safe and secure development, and I am well-versed in using libraries such as Riverpod.
-
-I have also dabbled in developing apps using Flutter Web. On top of this, I have experience creating and publishing Flutter plugins using Swift/Objective-C, Java and C++ with Dart FFI.
-
-I have also worked on other programming languages such as Go for Google Cloud Functions and Typescript.
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&show_icons=true&theme=solarized-dark" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&count_private=true&show_icons=true&theme=solarized-dark&hide=cmake,ruby,html,c" />
+ <div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ioridev&layout=compact&theme=solarized-dark' alt='Languages over last 7 days ' align='center' />
+</div>
+<br />
 </p>
 
  
