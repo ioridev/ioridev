@@ -5,7 +5,6 @@
 [![](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium)](https://medium.com/@iori.eth)
 [![](https://img.shields.io/badge/-Note-000?style=flat&logo=note)](https://note.com/ioridev)  
 
-
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&show_icons=true&theme=solarized-dark" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&count_private=true&show_icons=true&theme=solarized-dark&hide=cmake,ruby,html,c" />
@@ -14,6 +13,7 @@
 </div>
 <br />
 </p>
+Wakatime Joined Jan 30 2023  
 https://wakatime.com/@ioridev
  
 
