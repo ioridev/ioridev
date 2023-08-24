@@ -7,15 +7,17 @@
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&show_icons=true&theme=solarized-dark" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&count_private=true&show_icons=true&theme=solarized-dark&hide=cmake,ruby,html,c" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioridev&layout=compact&count_private=true&show_icons=true&theme=solarized-dark&hide=cmake,ruby,html,c" />  
+
  <div align='left'>
+     Wakatime Joined Jan 30 2023  
+https://wakatime.com/@ioridev
+   <br />
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ioridev&layout=compact&theme=solarized-dark&hide=other&langs_count=8' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 </p>
-Wakatime Joined Jan 30 2023  
-https://wakatime.com/@ioridev
- 
+
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=ioridev&theme=solarized-dark&repo=Precision-Fighting-Board)](https://github.com/ioridev/Precision-Fighting-Board)  
   
