@@ -1,9 +1,9 @@
 # 📛 I AM IORI
 
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/iori_eth)
+[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/iori_sf)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/ioridev)
-[![](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium)](https://medium.com/@iori.eth)
-[![](https://img.shields.io/badge/-Note-000?style=flat&logo=note)](https://note.com/ioridev)  
+[![wakatime](https://wakatime.com/badge/user/9bb03c9d-a297-458f-bc3c-d7daca226e5b.svg)](https://wakatime.com/@9bb03c9d-a297-458f-bc3c-d7daca226e5b)
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&show_icons=true&theme=solarized-dark" />
