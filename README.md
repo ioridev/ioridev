@@ -3,24 +3,12 @@
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/iori_eth)
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/iori_sf)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/ioridev)
-[![wakatime](https://wakatime.com/badge/user/9bb03c9d-a297-458f-bc3c-d7daca226e5b.svg)](https://wakatime.com/@9bb03c9d-a297-458f-bc3c-d7daca226e5b)
-
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ioridev&count_private=true&show_icons=true&show_icons=true&theme=solarized-dark" />
-
- <div align='left'>
-     Wakatime Joined Jan 30 2023  
-https://wakatime.com/@ioridev
-   <br />
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ioridev&layout=compact&theme=solarized-dark&hide=other&langs_count=8' alt='Languages over last 7 days ' align='center' />
-</div>
-<br />
-</p>
-
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=ioridev&theme=solarized-dark&repo=Precision-Fighting-Board)](https://github.com/ioridev/Precision-Fighting-Board)  
   
 [![](https://github-readme-stats.vercel.app/api/pin?username=ioridev&theme=solarized-dark&repo=flutter_applovin_max)](https://github.com/ioridev/flutter_applovin_max)
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=ioridev&theme=solarized-dark&repo=flutter_screentime)](https://github.com/ioridev/flutter_screentime)
 
 ## 🔥 Github Streaks 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ioridev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TopCodeBeast" /></p>
