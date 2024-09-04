@@ -6,7 +6,7 @@
 
 
 <!--画像-->
-<img src="https://raw.githubusercontent.com/ioridev/ioridev/master/images/GWmnS5AbkAALNWq.jpeg" alt="desk" />
+<img src="https://raw.githubusercontent.com/ioridev/ioridev/master/images/GWmnS5AbkAALNWq.jpeg" alt="desk" width="50%" height="50%" />
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=ioridev&theme=solarized-dark&repo=flutter_screentime)](https://github.com/ioridev/flutter_screentime)
 
